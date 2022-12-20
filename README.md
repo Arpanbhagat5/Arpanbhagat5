@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arpanbhagat5
 - 👀 I’m interested in algortihms and programming problems
-- 🌱 I’m currently learning Helm charts
+- 🌱 I’m new to learning Helm charts, RoR
 - 💞️ I’m looking to collaborate on any python/django based projects
 
 <!---
