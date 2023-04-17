@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Arpanbhagat5
 - 👀 I’m interested in algortihms and programming problems
-- 🌱 I’m new to learning Helm charts, RoR
-- 💞️ I’m looking to collaborate on any python/django based projects
 
 <!---
 Arpanbhagat5/Arpanbhagat5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
